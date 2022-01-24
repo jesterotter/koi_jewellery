@@ -7,7 +7,7 @@ This project was built to practice advanced concepts in JavaScript
 
 
 ## Tech/Framework used
-Html, CSS, JavaScript
+Html, CSS,  BASIC JS
 
 ---
 ## Credits
